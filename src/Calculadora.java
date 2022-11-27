@@ -16,8 +16,8 @@ public class Calculadora {
     return numeroA * numeroB;
   } 
 
-  public static double exponencial(double numeroA, double numeroB) {
-    return  Math.pow(numeroA, numeroB);
+  public static double seno(double numeroA) {
+    return  Math.sin(numeroA);
   }
 
   public static double raizQuadrada(int numeroA) {
