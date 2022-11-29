@@ -3,7 +3,10 @@ public class App {
         // IMC imcObject = new IMC();
         // imcObject.calcularIMC();    
         
-        AreaQuadrado areaQuadradoObject = new AreaQuadrado();
-        areaQuadradoObject.calcularAreaQuadrado();
+        //AreaQuadrado areaQuadradoObject = new AreaQuadrado();
+        //areaQuadradoObject.calcularAreaQuadrado();
+
+        Piso pisoObject = new Piso();
+        pisoObject.calcularPiso();
     }
 }

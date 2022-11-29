@@ -23,4 +23,12 @@ public class Calculadora {
   public static double raizQuadrada(int numeroA) {
     return Math.sqrt(numeroA);
   }
+
+  public static double teto(double numeroA) {
+		return Math.ceil(numeroA);
+  }  
+
+  public static double piso(double numeroA) {
+		return Math.floor(numeroA);		
+	}
 }
