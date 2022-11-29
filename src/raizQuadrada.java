@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class raizQuadrada {
     Scanner scanner = new Scanner(System.in);  
 
@@ -12,5 +11,4 @@ public class raizQuadrada {
         num = scanner.nextInt();
         System.out.println("A raiz quadrada do número " + num +" é: " + Calculadora.raizQuadrada(num));
     }
-
 }  
