@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class seno {
     Scanner scanner = new Scanner(System.in);  
 
-    public void resulSeno() {  
-        
+    public void resulSeno() {         
         double num;
       
         System.out.println("Digite um número para saber seu seno:  ");

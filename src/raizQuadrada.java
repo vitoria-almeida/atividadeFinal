@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class raizQuadrada {
     Scanner scanner = new Scanner(System.in);  
 
-    public void resulRaizQuadrada() {  
-        
+    public void resulRaizQuadrada() {      
         int num;
         
         System.out.println("Digite um número inteiro para saber sua raiz quadrada:  ");
